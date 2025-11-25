@@ -1,1 +1,4 @@
 # This repo is for practicing Nodejs
+ - Node.js is built on top of v8 engine
+ - And v8 is written in C++
+ - Node uses REPL
