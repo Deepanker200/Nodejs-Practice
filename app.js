@@ -1,5 +1,10 @@
-// console.log(global);     //Empty Object
-// console.log(this);
+// console.log(global);     
+// console.log(this);       //Empty Object
 // console.log(globalThis);
 
-console.log(globalThis===global);
+// console.log(globalThis===global);
+
+
+const add=require("./sum");
+
+add(1,2)
