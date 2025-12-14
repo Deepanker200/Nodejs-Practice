@@ -1,8 +1,8 @@
-// console.log(global);     //global is not under v8 engine
+// console.log(global);     
 // console.log(this);       //Empty Object
-// console.log(globalThis);     //Standard
+// console.log(globalThis);
 
-// console.log(globalThis===global);        //true
+// console.log(globalThis===global);
 
 
 const add=require("./sum");
