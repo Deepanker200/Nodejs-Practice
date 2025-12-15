@@ -5,3 +5,5 @@
 
 # Libuv for Node.js
 # Commong EJS and Modern EJS
+
+# By default in CJS it's .js ext file but in MJS(ESM) we have to explicitly write
