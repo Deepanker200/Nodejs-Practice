@@ -7,3 +7,6 @@
 # Commong EJS and Modern EJS
 
 # By default in CJS it's .js ext file but in MJS(ESM) we have to explicitly write
+
+# Tips
+- We can also import all files in a single file and then export it from it

@@ -20,3 +20,8 @@ const x=100
 
 // console.log("Imported x: ",x)   // It will give an error to avoid this i don't have to destructure on the fly
 console.log(x);
+
+
+const util=require("node:util");
+
+//util.
