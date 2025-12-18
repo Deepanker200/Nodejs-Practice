@@ -10,3 +10,8 @@
 
 # Tips
 - We can also import all files in a single file and then export it from it
+
+# Notes: 
+    - z();	Call function stored in z
+    - z()();	Call returned function
+    

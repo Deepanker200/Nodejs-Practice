@@ -20,3 +20,7 @@ z.a
 z.b()
 
 z.c()
+
+
+
+// Note: function (exports, require, module, _filename, __dirname)
