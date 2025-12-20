@@ -15,3 +15,8 @@
     - z();	Call function stored in z
     - z()();	Call returned function
     
+# Nodejs Working
+    - Parsing
+    1. Lexical Analysis(Tokenization)
+    2. Syntax Analysis(AST)
+        - Working of v8 engine
