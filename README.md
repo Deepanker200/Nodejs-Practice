@@ -20,3 +20,7 @@
     1. Lexical Analysis(Tokenization)
     2. Syntax Analysis(AST)
         - Working of v8 engine
+        
+# Libuv~ Event Loop
+    - Timer -> Poll -> Check -> Close
+        - Process.nextTick -> Promise Callbacks
