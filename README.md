@@ -24,3 +24,7 @@
 # Libuv~ Event Loop
     - Timer -> Poll -> Check -> Close
         - Process.nextTick -> Promise Callbacks
+
+# Note: 
+    -  The size of Libuv thread pool is 4 means 4 tasks can run simultaneously. It causes thread pool starvation. File gets delayed.
+    - To fix it we have to increase the size of thread pool using UV_THREADPOOL_SIZE=8 node app.js or something same command like this 
