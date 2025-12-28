@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-practice",
+  "version": "1.0.0",
+  "description": "- Node.js is built on top of v8 engine\r  - And v8 is written in C++\r  - Node uses REPL",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Deepanker200/Nodejs-Practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Deepanker200/Nodejs-Practice/issues"
+  },
+  "homepage": "https://github.com/Deepanker200/Nodejs-Practice#readme",
+  "dependencies": {
+    "mongodb": "^7.0.0"
+  }
+}

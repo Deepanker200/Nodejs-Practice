@@ -28,3 +28,6 @@
 # Note: 
     -  The size of Libuv thread pool is 4 means 4 tasks can run simultaneously. It causes thread pool starvation. File gets delayed.
     - To fix it we have to increase the size of thread pool using UV_THREADPOOL_SIZE=8 node app.js or something same command like this 
+
+# Important Url for MongoDB connection:
+-   https://mongodb.github.io/node-mongodb-native/6.8/
